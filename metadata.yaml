@@ -1,0 +1,33 @@
+_repo: Living-Bayonets-A-Record-of-the-Last-Push_52451
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dawson, Coningsby
+    aliases:
+    - Dawson, Coningsby William
+    - Dawson, Coningsby W. (Coningsby William)
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '2497'
+    url: http://www.gutenberg.org/2009/agents/2497
+    wikipedia: http://en.wikipedia.org/wiki/Coningsby_Dawson
+  editor:
+    agent_name: Dawson, Muriel
+    gutenberg_agent_id: '45711'
+    url: http://www.gutenberg.org/2009/agents/45711
+description: ''
+gutenberg_issued: '2016-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52451'
+  lccn: '19003010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, English'
+- !lcc 'D501'
+- GITenberg
+title: 'Living Bayonets: A Record of the Last Push'
+url: http://www.gutenberg.org/ebooks/52451
